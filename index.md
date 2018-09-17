@@ -1,13 +1,9 @@
-theme: jekyll-theme-tactile
-title: Welcome to Sean O'Toole's Homepage
-description: Updated with current project progress every -insert reasonable time interval here-
-
 # Practice Text Entry 
 
-This is test text for playing around with the markdown syntax. Text can be **Bolded**, _Italicized_, or shown as 'code'. Each of these has their own utility, and should be used whenever it seems fitting.
-**The Original help text for this has been left as-is, in order to reference off of while maaking later additions to the page.**
+This is test text for playing around with the markdown syntax. Text can be **Bolded**, _Italicized_, or shown as 'code'. Each of these has their own utility, and should be used whenever it seems fitting. (Note: It _**Appears**_ that these can be _'mixed'_, **'matched'**, and _**'Combined'**_ freely!)
+_**The Original help text for this has been left as-is, in order to reference off of while maaking later additions to the page.**_
 
-'//ToDo: Insert applicable information, format as desired, and delete all helper text below once satisfied with initial results'
+' ToDo: Insert applicable information, format as desired, and delete all helper text below once satisfied with initial results '
 
 ## Welcome to GitHub Pages
 
