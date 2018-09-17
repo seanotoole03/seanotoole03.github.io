@@ -1,17 +1,17 @@
 # Practice Text Entry 
 
-This is test text for playing around with the markdown syntax. Text can be **Bolded**, _Italicized_, or shown as 'code'. Each of these has their own utility, and should be used whenever it seems fitting. (Note: It _**Appears**_ that these can be _'mixed'_, **'matched'**, and _**'Combined'**_ freely!)
+This is test text for playing around with the markdown syntax. Text can be **Bolded**, _Italicized_, or shown as `code`. Each of these has their own utility, and should be used whenever it seems fitting. (Note: It _**pppears**_ that these can be _`mixed`_, **`matched`**, and _**`Combined`**_ freely!)
 
 _**The Original help text for this has been left as-is, in order to reference off of while maaking later additions to the page.**_
 
 ' ToDo: Insert applicable information, format as desired, and delete all helper text below once satisfied with initial results '
 1. Decide on structure and desired content of page by referring to other public pages
 1. Begin updating page with own personal information and projects 
-  1. Links, images, descriptions, etc.
+    1. Links, images, descriptions, etc.
 1. Finalize page
-  1. Clean up default text 
-  1. Test different themes to see how each would work with desired content
-  1. Decide on final design, commit as v1 / Initial Page / <date> Update or similar name
+    1. Clean up default text 
+    1. Test different themes to see how each would work with desired content
+    1. Decide on final design, commit as v1 / Initial Page / <date> Update or similar name
 
 
 ## Welcome to GitHub Pages
