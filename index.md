@@ -1,3 +1,10 @@
+# Practice Text Entry 
+
+This is test text for playing around with the markdown syntax. Text can be **Bolded**, _Italicized_, or shown as 'code'. Each of these has their own utility, and should be used whenever it seems fitting.
+**The Original help text for this has been left as-is, in order to reference off of while maaking later additions to the page.**
+
+'//ToDo: Insert applicable information, format as desired, and delete all helper text below once satisfied with initial results'
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/seanotoole03/seanotoole03.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
