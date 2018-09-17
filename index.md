@@ -1,3 +1,7 @@
+theme: tactile
+title: Welcome to Sean O'Toole's Homepage
+description: Updated with current project progress every -insert reasonable time interval here-
+
 # Practice Text Entry 
 
 This is test text for playing around with the markdown syntax. Text can be **Bolded**, _Italicized_, or shown as 'code'. Each of these has their own utility, and should be used whenever it seems fitting.
