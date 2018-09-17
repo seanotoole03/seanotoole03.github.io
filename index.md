@@ -1,4 +1,4 @@
-theme: tactile
+theme: jekyll-theme-tactile
 title: Welcome to Sean O'Toole's Homepage
 description: Updated with current project progress every -insert reasonable time interval here-
 
